@@ -1,0 +1,14 @@
+{
+	"folders": [],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"type": "pwa-chrome",
+				"request": "launch",
+				"name": "Open index.html",
+				"file": "c:\\Users\\PC\\Desktop\\Sycs Practical\\Web programming\\The Football Mania syscs040\\index.html"
+			}
+		]
+	}
+}
